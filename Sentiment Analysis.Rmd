@@ -1,5 +1,5 @@
 ---
-title: "Assignment 3 - Text Mining and Sentiment Analysis"
+title: "Text Mining and Sentiment Analysis"
 author: "Prakhar"
 date: "4/10/2021"
 output:
